@@ -1,6 +1,8 @@
-## Fauzan Abdurrochman | Data Analyst
+## Self-Taught Programmer
 
 Hi there 👋
+
+I'm Fauzan Abdurrochman, transitioning into data analyst, with an interest in transforming raw data into insights that support business through data visualization
 <!--
 **cairn-s/cairn-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
