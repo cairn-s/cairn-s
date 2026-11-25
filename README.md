@@ -17,16 +17,16 @@ Currently i'm honing my technical and analytical skills skills through various p
 - Matplotlib
 
 ## 📄 Projects
-- **OSHA Work-related accident analysis** Data analysis project combining business knowledge, data cleaning, data visualization and insights based on 5W+1H
+- <a href="https://github.com/cairn-s/injuries-analysis">**OSHA Work-related accident analysis**</a> Data analysis project combining business knowledge, data cleaning, data visualization and insights based on 5W+1H
 
-- **Bank Marketing Customer Analysis** Dashboard for customer segmentation for customer profiling and understand its needs
+- <a href="https://github.com/cairn-s/bank-analysis">**Bank Marketing Customer Analysis**</a> Dashboard for customer segmentation for customer profiling and understand its needs
 
--- **Weather Prediction App** Supervised learning model to predict tomorrow weather and deployed it in streamlit app
+- <a href="https://github.com/cairn-s/weather-prediction-random-forest">**Weather Prediction App**</a> Supervised learning model to predict tomorrow weather and deployed it in streamlit app
 
 ## 📫 Let's Connect
 
-- Linkedin:
-- Email: 
+- Linkedin: <a href="https://www.linkedin.com/in/fauzan-anwar22/">https://www.linkedin.com/in/fauzan-anwar22/</a>
+- Email: <a href="mailto:neinlc789@gmail.com">neinlc789@gmail.com</a>
 <!--
 **cairn-s/cairn-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
